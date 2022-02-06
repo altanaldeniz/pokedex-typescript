@@ -32,7 +32,7 @@ export default function Layout({ children, title }: Props) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Source
+          Github
         </a>
         <span>Altan Aldeniz</span>
       </footer>
